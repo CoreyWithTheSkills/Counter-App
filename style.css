@@ -1,0 +1,31 @@
+body{
+    background-color: crimson;
+    display: flex;
+    flex-direction: column;
+justify-content: center;
+}
+
+.container-1{
+    background-color: gray;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+
+button {
+    background-color: lightgray;
+    font-family: Arial;
+    padding: 0px 10px;
+    color: black;
+    cursor: pointer;
+align-content: center;
+}
+
+h1{
+    text-align: center;
+}
+
